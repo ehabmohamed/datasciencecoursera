@@ -1,0 +1,18 @@
+---
+title: "Data Science Accomplishments"
+author: "Ehab Mohamed"
+date: "28 December 2015"
+output: html_document
+---
+
+# Overview
+
+This page lists different sample projects I already achieved during my study of the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) offered by Johns Hopkins University.
+
+### [Statistical Inference (Data Analysis)](http://ehabmohamed.github.io/statisticalinference1/)
+
+### [Statistical Inference (Simulation)](http://ehabmohamed.github.io/statisticalinference2/)
+
+### [Regression Models](http://ehabmohamed.github.io/regressionmodels/)
+
+### [Practical Machine Learning](http://ehabmohamed.github.io/practicalmachinelearning/)
